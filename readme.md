@@ -4,4 +4,6 @@
 por ejemplo el signo numeral seria para titulos. Y luego se puede tambien escribir texto plano
 como este.
 
-Ahira agrego esta linea
+Ahora agrego esta linea
+
+y trambien esta
